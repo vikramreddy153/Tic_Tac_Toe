@@ -2,9 +2,6 @@
 <html>
 <head>
     <title>Tic Tac Toe</title>
-    <style>
-        /* Add your CSS styles here */
-    </style>
 </head>
 <body>
     <div class="game-panel">
